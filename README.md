@@ -1,4 +1,5 @@
-config
+Git config files
 ======
 
-Random config files
+.gitconfig : 
+
